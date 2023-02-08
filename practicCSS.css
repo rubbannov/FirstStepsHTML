@@ -1,0 +1,466 @@
+html {
+    font-family: Oswald, sans-serif;
+    font-size: 30px;
+}
+.div p {
+    display: inline;
+    padding: 5px 15px;
+}
+
+.logo {
+    height: 95vh;
+    background: rgb(240,101,42);
+    padding: 0.1px 0px;
+}
+.img {
+   display: block;
+    margin: auto;
+}
+.slogan {
+    text-align: center;
+    font-size: 1.5rem;
+    color: aliceblue;
+    margin-bottom: 0px;
+    margin-top: 5px;
+}
+.slogan-title {
+    text-align: center;
+    font-size: 0.8rem;
+    color: aliceblue;
+    margin-bottom: 0px;
+    margin-top: 30px;
+}
+/* --------------- work 1  --------------- */
+.homework1 {
+    background: gray;
+    color: aliceblue;
+    text-align: center;
+    padding: 5px;
+    margin: 5px 0px;
+}
+.div {
+    padding: 0.1px 0px;
+    text-align: center;
+    height: 60vh;
+    }
+.div-in {
+    margin: auto;
+    margin-top: 5em;
+}
+.first {
+    background: orange;
+    font-weight: 100;
+}
+.twice {
+    background: orange;
+    font-weight: 400;
+}
+.third {
+    background: orange;
+    font-weight: 500;
+}
+.third abbr {
+    text-decoration: none;
+}
+.fourth {
+    background: orange;
+    font-weight: 700;
+}
+.fiveth {
+    background: orange;
+    font-weight: 900;
+}
+/* --------------- work 2  --------------- */
+.homework2 {
+    background: gray;
+    text-align: center;
+    color: aliceblue;
+    margin: 5px 0px;
+}
+
+.block {
+    background: #d1992a;
+    padding: 0.1px 0px;    
+    
+}
+.block-p {
+    background: #d1992a;
+    width: 70%;
+    padding: 20px;
+    border: 4px solid white;
+    border-radius: 50px;
+    width: 65%;
+    margin: auto;
+    margin-top: 110px;
+    margin-bottom: 130px;
+}
+
+/* --------------- work 3  --------------- */
+.homework3 {
+    background: gray;
+    text-align: center;
+    color: aliceblue;
+    margin: 5px 0px;
+}
+.table {
+    margin-left: auto;
+    margin-right: auto;
+    width: 70%;
+}
+td {
+    padding: 3px;
+    border-top: 2px solid black;
+    border-right: 2px solid black;
+}
+td:first-child {
+    border-left: 2px solid black;
+}
+tr:last-child td {
+    border-bottom: 2px solid black;
+}
+.col3 {
+    text-align: center;
+}
+
+/* --------------- work 4  --------------- */
+.homework4 {
+    background: gray;
+    color: aliceblue;
+    text-align: center;
+    padding: 5px;
+    margin: 5px 0px;
+}
+.hw4-bg {
+    background: #219177;
+    padding: 5px 0px;
+    height: 90vh;
+    box-sizing: border-box;
+    
+}
+.hw4-form {
+    background: #ddede9;
+    width: 350px;
+    margin: auto;
+    margin-top: 200px;
+    padding: 30px;
+    box-shadow: 0 0 5px rgba(0,0,0,0.5);
+    box-sizing: border-box;
+    
+}
+.hw4-rows {
+    margin-top: 15px;
+}
+.hw4-rows:first-child {
+    margin: 0;
+}
+.hw4-form input,.hw4-form button {
+    padding: 10px;
+    box-sizing: border-box;
+    width: 100%;
+    font-size: 19px;
+}
+.button {
+    background: #afbdba;
+    
+}
+
+/* --------------- work 5  --------------- */
+.homework5 {
+    background: gray;
+    color: aliceblue;
+    text-align: center;
+    padding: 5px;
+    margin: 5px 0px;
+}
+.hw5-bg {
+    background: #e7f26b;
+    padding: 0.1px 0px;
+    height: 90vh;
+    box-sizing: border-box;
+}
+.hw5-text {
+    background: #f0f2da;
+    color: #54544f;
+    font-size: 20px;
+    padding: 30px;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 150px;
+    border: 1px solid #f0f2da;
+    border-radius: 25px;
+    width: 500px;
+    height: 200px;
+}
+/* --------------- work 6  --------------- */
+.hw6-sect {
+    background: #2f2e87;
+    padding: 0.1px 0px;
+}
+.homework6 {
+    background: gray;
+    color: aliceblue;
+    text-align: center;
+    padding: 5px;
+    margin: 5px 0px;
+}
+.hw6-form {
+    background: #6665b8;
+    width: 60%;
+    padding: 20px;
+    margin: 100px auto;
+    border: 1px solid #44567e;
+    box-shadow: 5px 5px 5px rgba(0, 0, 0, 0.3);
+}
+.hw6-form div {
+    margin-bottom: 10px;
+    margin-left: 20px;
+}
+.form-rows {
+    text-align: right;
+    float: left;
+    width: 100px;
+    margin-right: 10px;
+    overflow: hidden;
+}
+.hw6-form input,.hw6-form textarea {
+    width: 300px;
+    height: 20px;
+    background: #484875;
+    border: none;
+    box-shadow: inset -2px -2px 2px #425575;
+    color: #dfdfe8;
+    font-size: 21px;
+    
+}
+.hw6-form textarea {
+    height: 100px;
+}
+.hw6-form button {
+    margin-left: 110px;
+    
+    background: #3a3a69;
+    font-weight: bold;
+    border: none;
+    padding: 10px 20px;
+    text-transform: uppercase;
+}
+/* --------------- work 7  --------------- */
+.hw7-title {
+    background: gray;
+    color: aliceblue;
+    text-align: center;
+    padding: 5px;
+    margin: 5px 0px;
+}
+.sect-hw7 {
+    background: #24969e;
+    padding: 0.1px 0px;
+    height: 630px;
+}
+.archive {
+    width: 400px;
+    margin: auto;
+    margin-top: 50px;
+    background: #dcf3f5;
+}
+.archive p {
+    margin: 0;
+}
+.archive p:first-child {
+    text-align: center;
+    background: #99958d;
+}
+.archive a {
+    text-decoration: none;
+    display: block;
+    color: #594d44;
+    padding-left: 8px;
+}
+.archive a:hover {
+    background: #c98555;
+    color: #d6c6ba;
+}
+
+/* --------------- work 8  --------------- */
+
+.hw8-title {
+    background: gray;
+    color: aliceblue;
+    text-align: center;
+    padding: 5px;
+    margin: 5px 0px;
+}
+.sect-hw8 {
+    background: #2d8c3d;
+    padding: 0.1px 0px;
+    height: 430px;
+}
+.sect-hw8 ul {
+    background: #9924a3;
+    margin: 100px 10px 10px;
+    text-align: center;
+    padding-top: 20px;
+    padding-bottom: 20px;
+}
+.sect-hw8 li {
+    display: inline;
+    margin: 0 15px;
+    
+}
+.sect-hw8 a {
+    text-decoration: none;
+    color: #d6c6ba;
+}
+.sect-hw8 a:hover {
+    text-decoration: underline;
+}
+
+/* --------------- work 9  --------------- */
+
+.hw9-title {
+    background: gray;
+    color: aliceblue;
+    text-align: center;
+    padding: 5px;
+    margin: 5px 0px;
+}
+.sect-hw9 {
+    background: #474747;
+    padding: 0.1px 0px;
+    height: 430px;
+}
+.hw8-container {
+    width: 60%;
+    height: 150px;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 20px;
+    
+}
+.hw8-head {
+    background: #c4c3c2;
+    
+    height: auto;
+    padding: 10px;
+}
+.hw8-head h4 {
+    display: inline;
+    background: #db2f09;
+    padding: 10px;
+    font-weight: 600;
+}
+.hw8-body {
+    overflow: hidden;
+    background: #f5f1f0;
+}
+.hw8-body li {
+    display: inline;
+    margin-right: 7px;
+}
+.hw8-body a {
+    color: #4f65d1;
+}
+.hw8-body a:hover {
+    color: #20284f;
+    background: #cdd4fa;
+}
+
+/* --------------- work 10--------------- */
+
+.hw10-title {
+    background: gray;
+    color: aliceblue;
+    text-align: center;
+    padding: 5px;
+    margin: 5px 0px;
+}
+.sect-hw10 {
+    background: #f0f1f7;
+    padding: 0.1px 0px;
+    height: 430px;
+}
+
+.hw10-container {
+    width: 550px;
+    background: #8a8d9c;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 40px;
+    padding: 20px;
+    box-sizing: border-box;
+}
+.fig {
+    display: inline-block;
+    padding-right: 10px;
+    text-align: right;
+    font-size: 22px;
+    border-right: 2px solid blue;
+}
+.hw10-container h2 {
+    display: inline-block;
+    font-weight: normal;
+    vertical-align: top;
+    margin: 0 0 0 10px;
+    width: 138px;
+}
+
+/* --------------- work 11--------------- */
+.sect-hw11 {
+    background: #9c612a;
+    padding: 0.1px 0px;
+    height: 110vh;
+}
+.hw11-title {
+    background: gray;
+    color: aliceblue;
+    text-align: center;
+    padding: 5px;
+    margin: 5px 0px;
+}
+.hw11-board {
+    margin: auto;
+    margin-top: 30px;
+    width: 615px;
+    background: #e8e4e1;
+    padding: 50px;
+}
+.hw11-board button {
+    padding: 15px 20px;
+    border: 2px solid #63615f;
+    border-radius: 50px;
+    margin-right: 30px;
+    font-weight: normal;
+    font-size: 20px;
+}
+.hw11-board button:last-child {
+    margin-right: 0;
+}
+.hw11-arrow {
+    box-sizing: border-box;
+    width: 150px;
+}
+.hw11-board button:hover {
+    border: 2px solid #ff7b00;
+    background: #ff7b00;
+    color: aliceblue;
+}
+.hw11-card {
+    width: 600px;
+    margin: auto;
+    border-bottom: 6px solid #61322a;
+    font-size: 0;
+    margin-top: 50px;
+}
+.hw11-card > img {
+    width: 50%;
+    padding-left: 10px;
+    vertical-align: middle;         
+}
+
+.hw11-card > div {
+    width: 250px;
+    font-size: 25px;
+    padding-left: 30px;
+    display: inline-block;
+    vertical-align: middle;
+}
